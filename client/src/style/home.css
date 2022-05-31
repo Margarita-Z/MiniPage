@@ -1,0 +1,12 @@
+.tekst {
+    text-align: center;
+    justify-content: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #e1e3eb;
+    height: 550px;
+    width: 100%;
+    box-shadow: 22px 22px 23px 22px rgb(207, 207, 207);
+    border-radius: 60px; 
+    background-color: white;
+}

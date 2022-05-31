@@ -1,0 +1,40 @@
+input{
+    width: 280px;
+padding: 15px;
+padding-left: 50px;
+font-size: 17px;
+letter-spacing: 1px;
+color: #1F2937;
+background-color: #E5E7EB;
+border: 0;
+outline: 0;
+display: block;
+margin: 5px auto 10px auto;
+transition: ease-in-out 0.3s;
+}
+label{
+    text-align: left;
+font-size: 16px;
+font-weight: bold;
+}
+.font {
+    position: relative;
+}
+  
+.font i{
+    position: absolute;
+    left: 15px;
+    top: 18px;
+    color: gray;
+}
+.fontuser {
+    position: relative;
+}
+  
+.fontuser i{
+    position: absolute;
+    left: 15px;
+    top: 38px;
+    color: gray;
+}
+
